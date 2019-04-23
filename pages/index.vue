@@ -22,7 +22,7 @@
       </div>
     </div>
 
-    <portal-vue name="test-page" />
+    <portal-target name="test-page" />
   </section>
 </template>
 

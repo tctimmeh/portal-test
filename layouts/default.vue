@@ -2,7 +2,7 @@
   <div>
     <nuxt />
 
-    <portal-target name="test" />
+    <portal-target name="test-layout" />
   </div>
 </template>
 
